@@ -1,0 +1,23 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.szoveg {
+    margin-top: 35px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+th,td {
+    border: 1px solid black;
+}
+
+td {
+    padding: 5px ;
+    text-align: center;
+}
