@@ -73,7 +73,7 @@
         "Észtország" => 25,
         "Finnország" => 36,
     );
-    echo "<table border='1'>";
+    echo "<table>";
 
     echo "<tr><th>Ország</th><th>EU-cél 2020</th></tr>";
 
